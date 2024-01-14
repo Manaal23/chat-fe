@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  /* height: 100vh;
+  width: 100vw; */
+}
+* {
+  box-sizing: border-box;
+}
+.notification {
+  position: absolute;
+  right: 0px;
+  top: -12px;
+  background-color: red;
+  border-radius: 50%;
+  padding: 0px 4px;
+  font-size: 9px;
+  color: white;
+}
